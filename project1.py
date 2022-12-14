@@ -1,1 +1,2 @@
-print("Hello 2F 2")
+print("Hello 2F2")
+print(2 + 5)
